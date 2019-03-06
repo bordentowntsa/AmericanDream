@@ -1,0 +1,76 @@
+/*WHOLE WEBSITE */
+
+/*main font and background color*/
+body{
+    background-color: #ccefff;
+    font-family: "Trebuchet MS";
+  }
+
+/*the banner on top which can be seen throughout the website */
+.header{
+    background-color:#c9c9c9;
+    height: 200px;
+    margin: 10px;
+}
+
+/*logo within the banner */
+img.logo{
+    float: right;
+    height: auto;
+    width: 300px;
+}
+
+/*The light blue links that are visible on the banner on the top on every webpage */
+a:link, a:visited {
+    background-color: #52b9e5;
+    color: #ffffff;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+/* the footer on the bottom which can also be seen throughout the webiste */
+#footer{
+    background-color:#c9c9c9;
+    height: 50px;
+    margin: 10px;
+}
+/* keeps the text in footer to be spaced out */
+pre{
+    font-family: "Trebuchet MS";
+    text-align:center;
+}
+
+
+
+
+/*HOME PAGE*/
+/* the home page's middle image of the Oreo */
+img.pack{
+    width: 100%;
+    height: auto;
+}
+
+/* the columns that are seen on the first page */
+.column {
+    float: left;
+    width:  30%;
+    height: auto;
+    padding: 15px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+
+/*HISTORY PAGE */   
+/* the different sections on history page */
+.hist{
+    height: auto;
+    border: solid;
+}
