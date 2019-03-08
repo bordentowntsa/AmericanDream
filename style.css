@@ -9,7 +9,7 @@ body{
 /*the banner on top which can be seen throughout the website */
 .header{
     background-color:#ffffff;
-    height: 260px;
+    height: 200px;
     margin: 10px;
 }
 
@@ -28,6 +28,7 @@ a:link, a:visited {
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    height: 35px;
 }
 
 /* the footer on the bottom which can also be seen throughout the webiste */
