@@ -2,14 +2,14 @@
 
 /*main font and background color*/
 body{
-    background-color: #ccefff;
+    background-color: #000000;
     font-family: "Trebuchet MS";
   }
 
 /*the banner on top which can be seen throughout the website */
 .header{
     background-color:#ffffff;
-    height: 200px;
+    height: 170px;
     margin: 10px;
 }
 
@@ -65,7 +65,8 @@ img.pack{
     content: "";
     display: table;
     clear: both;
-    background-color: #DCDCDC;	
+    background-color: #DCDCDC;
+    margin: 10px;
 }
 
 
