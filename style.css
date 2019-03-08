@@ -62,8 +62,8 @@ img.pack{
 
 /* the columns that are seen on the first page */
 .column {
-    float: right;
-    width:  auto;
+    float: left;
+    width:  30%;
     height: auto;
     padding: 15px;
 }
