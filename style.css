@@ -8,7 +8,7 @@ body{
 
 /*the banner on top which can be seen throughout the website */
 .header{
-    background-color:#ffffff;
+    background-color:#ffe9ec;
     height: 100px;
     margin: 10px;
 }
@@ -22,7 +22,7 @@ img.logo{
 
 /*The light blue links that are visible on the banner on the top on every webpage */
 a:link, a:visited {
-    background-color: #ffffff;
+    background-color: #ffe9ec;
     color: #00008B;
     padding: 14px 25px;
     text-align: center;
@@ -33,7 +33,7 @@ a:link, a:visited {
 
 /* the footer on the bottom which can also be seen throughout the webiste */
 #footer{
-    background-color: #ffffff;
+    background-color: ##ffe9ec;
     height: 50px;
     margin: 10px;
 }
