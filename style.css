@@ -57,7 +57,7 @@ h2{
 /* the home page's middle image of the Oreo */
 img.pack{
     width: 100%;
-    height: auto;
+    height: 200px;
 }
 
 /* the columns that are seen on the first page */
