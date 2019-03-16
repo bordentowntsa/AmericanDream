@@ -13,13 +13,6 @@ body{
     margin: 1%;
 }
 
-/*logo within the banner */
-img.logo{
-    float: right;
-    height: auto;
-    width: 3%;
-}
-
 /*The light blue links that are visible on the banner on the top on every webpage */
 a:link, a:visited {
     background-color: #ffe9ec;
@@ -28,7 +21,7 @@ a:link, a:visited {
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    height: 35px;
+    height: 3.5%;
 }
 
 /* the footer on the bottom which can also be seen throughout the webiste */
