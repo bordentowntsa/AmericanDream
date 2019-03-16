@@ -9,22 +9,22 @@ body{
 /*the banner on top which can be seen throughout the website */
 .header{
     background-color:#ffe9ec;
-    height: 100px;
-    margin: 10px;
+    height: 10%;
+    margin: 1%;
 }
 
 /*logo within the banner */
 img.logo{
     float: right;
     height: auto;
-    width: 300px;
+    width: 3%;
 }
 
 /*The light blue links that are visible on the banner on the top on every webpage */
 a:link, a:visited {
     background-color: #ffe9ec;
     color: #00008B;
-    padding: 14px 25px;
+    padding: 1.4% 2.5%;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -34,8 +34,8 @@ a:link, a:visited {
 /* the footer on the bottom which can also be seen throughout the webiste */
 #footer{
     background-color: #ffe9ec;
-    height: 50px;
-    margin: 10px;
+    height: 5%;
+    margin: 1%;
 }
 /* keeps the text in footer to be spaced out */
 pre{
@@ -53,19 +53,13 @@ h2{
    color: #00008B;
 }
 
-/*HOME PAGE*/
-/* the home page's middle image of the Oreo */
-img.pack{
-    width: 100%;
-    height: 600px;
-}
 
 /* the columns that are seen on the first page */
 .column {
     float: left;
     width:  30%;
     height: auto;
-    padding: 15px;
+    padding: 1.5%;
 }
 
 /* Clear floats after the columns */
@@ -74,6 +68,6 @@ img.pack{
     display: table;
     clear: both;
     background-color: #ffffff;
-    margin: 10px;
+    margin: 1%;
 }
 
