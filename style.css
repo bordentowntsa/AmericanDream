@@ -22,6 +22,7 @@ a:link, a:visited {
     text-decoration: none;
     display: inline-block;
     height: 3.5%;
+    font-size: 3vw;
 }
 
 /* the footer on the bottom which can also be seen throughout the webiste */
@@ -35,15 +36,19 @@ pre{
     font-family: "Trebuchet MS";
     text-align:center;
     color: #00008B;
+    font-size: 3vw;
 }
 p{
     color: #00008B;
+    font-size: 3vw;
 }
 h1{
     color: #00008B;
+    font-size: 10vw;
 }
 h2{
    color: #00008B;
+   font-size: 8vw;
 }
 
 
